@@ -2,6 +2,10 @@
 
 A simple flappy bird game build using corona SDK platform for learning to code purpose, for building new and cool games.
 
+### Features
+Easy to understand lua language.
+With Revmob Ad support in the code.
+
 ### How to play
 The same way you might have played Flappy Bird.
 Keep on tapping so that the bird will flap and move up.
