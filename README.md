@@ -9,7 +9,7 @@ With Revmob Ad support in the code.
 ### How to play
 The same way you might have played Flappy Bird.
 Keep on tapping so that the bird will flap and move up.
-Dodge all those pipes that come in the way and increase your score
+Dodge all those pipes that come in the way and increase your score.
 
 A pretty simple game easy to understand the lua language.
 
