@@ -13,7 +13,7 @@ Dodge all those pipes that come in the way and increase your score.
 
 A pretty simple game easy to understand the lua language.
 
-Game is Live on Amazon app store : https://www.amazon.com/Flappy-Bat-Training-Bird/dp/B0108G668A/ref=sr_1_4?s=mobile-apps&ie=UTF8&qid=1528143001&sr=1-4
+#### Game is Live on Amazon app store : https://www.amazon.com/Flappy-Bat-Training-Bird/dp/B0108G668A/ref=sr_1_4?s=mobile-apps&ie=UTF8&qid=1528143001&sr=1-4
 
 ## Note 
 All the files images, code files are to be kept in the same folder.
